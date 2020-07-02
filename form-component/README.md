@@ -10,6 +10,8 @@ In the root of your UVdesk project, go inside the apps folder and create a new d
 
 Inside the uvdesk directory, your form-component directory will exist and will contain the application; directly download the application and place it within the respective directory or clone the application from within the uvdesk directory.
 
+So the structure should look like this:PROJECT_ROOT/apps/uvdesk/form-component
+
 ### Configuration
 
 Run the given commands below, inside the project root:
